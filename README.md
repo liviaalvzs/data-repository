@@ -5,5 +5,7 @@
 
  🤍 [Acesse aqui](https://liviaalvzs.github.io/mapa) esse projeto funcionando no seu navegador
 
+ 🤍 [Acesse aqui](https://github.com/liviaalvzs/data-repository/blob/main/projeto-metro-sp/notebook.ipynb) o notebook desse projeto
+
 ![Projeto Final](projeto-metro-sp/resultado.PNG)
 
